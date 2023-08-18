@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\source\\repos\\PROG_Y3\\st10152183_Word_Game\\st10152183_Word_Game\\st10152183_Word_Game.csproj": {}
+    "C:\\Users\\lab_services_student\\source\\repos\\ICE_Task_Year_3\\st10152183_Word_Game\\st10152183_Word_Game\\st10152183_Word_Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\source\\repos\\PROG_Y3\\st10152183_Word_Game\\st10152183_Word_Game\\st10152183_Word_Game.csproj": {
+    "C:\\Users\\lab_services_student\\source\\repos\\ICE_Task_Year_3\\st10152183_Word_Game\\st10152183_Word_Game\\st10152183_Word_Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\source\\repos\\PROG_Y3\\st10152183_Word_Game\\st10152183_Word_Game\\st10152183_Word_Game.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\source\\repos\\ICE_Task_Year_3\\st10152183_Word_Game\\st10152183_Word_Game\\st10152183_Word_Game.csproj",
         "projectName": "st10152183_Word_Game",
-        "projectPath": "C:\\Users\\lab_services_student\\source\\repos\\PROG_Y3\\st10152183_Word_Game\\st10152183_Word_Game\\st10152183_Word_Game.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\source\\repos\\ICE_Task_Year_3\\st10152183_Word_Game\\st10152183_Word_Game\\st10152183_Word_Game.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\source\\repos\\PROG_Y3\\st10152183_Word_Game\\st10152183_Word_Game\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\source\\repos\\ICE_Task_Year_3\\st10152183_Word_Game\\st10152183_Word_Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lab_services_student\\AppData\\Roaming\\NuGet\\NuGet.Config",

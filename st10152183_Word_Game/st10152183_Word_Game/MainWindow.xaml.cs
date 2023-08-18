@@ -43,10 +43,7 @@ namespace st10152183_Word_Game
 
         private void bntPlay_Click(object sender, RoutedEventArgs e)
         {
-            Random rdm=new Random();
-            correctAnswer= sArray[rdm.Next(0, sArray.Length)];
-            string random = new string(correctAnswer.ToCharArray().OrderBy(x => (rdm.Next(2)%2==0)).ToArray());
-            txtLabel.Content = random;
+            genreateNumber();
         }
 
         private void bntClear_Click(object sender, RoutedEventArgs e)
@@ -55,5 +52,12 @@ namespace st10152183_Word_Game
             txtAnswer.Text = null;
         }
 
+        private void genreateNumber()
+        {
+            Random rdm = new Random();
+            correctAnswer = sArray[rdm.Next(0, sArray.Length)];
+            string random = new string(correctAnswer.ToCharArray().OrderBy(x => (rdm.Next(2) % 2 == 0)).ToArray());
+            txtLabel.Content = random;
+        }
     }
 }
